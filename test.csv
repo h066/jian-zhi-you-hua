@@ -1,0 +1,11 @@
+优化前,,,,,,优化后
+minSup : 250.0       data_num : 1500   freqItems_fp: 8191  freqItems_eclat: 0   freqItems_ap: 0,,,,,,minSup : 250.0       data_num : 1500   freqItems_fp: 42893  freqItems_eclat: 0   freqItems_ap: 0
+fp_growth: 1.6275742053985595,,,,,,fp_growth: 2.2241811752319336
+minSup : 200.0       data_num : 1500   freqItems_fp: 12537  freqItems_eclat: 0   freqItems_ap: 0,,,,,,minSup : 200.0       data_num : 1500   freqItems_fp: 57859  freqItems_eclat: 0   freqItems_ap: 0
+fp_growth: 1.7630407810211182,,,,,,fp_growth: 3.345759153366089
+minSup : 150.0       data_num : 1500   freqItems_fp: 27648  freqItems_eclat: 0   freqItems_ap: 0,,,,,,minSup : 150.0       data_num : 1500   freqItems_fp: 80314  freqItems_eclat: 0   freqItems_ap: 0
+fp_growth: 7.270867824554443,,,,,,fp_growth: 3.9227230548858643
+minSup : 100.0       data_num : 1500   freqItems_fp: 32767  freqItems_eclat: 0   freqItems_ap: 0,,,,,,minSup : 100.0       data_num : 1500   freqItems_fp: 117291  freqItems_eclat: 0   freqItems_ap: 0
+fp_growth: 6.562665939331055,,,,,,fp_growth: 5.952284097671509
+minSup : 50.0       data_num : 1500   freqItems_fp: 32767  freqItems_eclat: 0   freqItems_ap: 0,,,,,,minSup : 50.0       data_num : 1500   freqItems_fp: 188571  freqItems_eclat: 0   freqItems_ap: 0
+fp_growth: 6.840054988861084,,,,,,fp_growth: 9.616761922836304
